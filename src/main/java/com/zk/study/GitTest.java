@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("copy1");
         System.out.println("copy2");
         System.out.println("ccccccc");
+        System.out.println("bbb");
     }
 }

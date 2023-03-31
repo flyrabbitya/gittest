@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("main2");
         System.out.println("main3");
         System.out.println("copy1");
+        System.out.println("copy2");
     }
 }

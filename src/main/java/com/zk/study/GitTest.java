@@ -6,13 +6,9 @@ package com.zk.study;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("13123");
-        System.out.println("13123");
-        System.out.println("13123");
-
              System.out.println("131222222222222222223");
         System.out.println("222");
-        System.out.println("234");
-
+        System.out.println("234");12321131321
+        
     }
 }

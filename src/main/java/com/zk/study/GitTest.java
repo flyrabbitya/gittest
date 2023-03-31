@@ -14,5 +14,9 @@ public class GitTest {
         System.out.println("55");
         System.out.println("66");
         System.out.println("77");
+        System.out.println("main2");
+        System.out.println("main3");
+        System.out.println("copy1");
+        System.out.println("copy2");
     }
 }

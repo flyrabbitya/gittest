@@ -6,7 +6,9 @@ package com.zk.study;
  */
 public class GitTest {
     public static void main(String[] args) {
-     sssssssss
+        System.out.println("13123");
+        System.out.println("13123");
+        System.out.println("13123");
 
     }
 }

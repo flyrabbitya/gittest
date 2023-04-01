@@ -6,14 +6,6 @@ package com.zk.study;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("mainmain");
-        System.out.println("main");
-        System.out.println("000");
-        System.out.println("1");
-        System.out.println("2");
-        System.out.println("3");
-        System.out.println("4");
-        System.out.println("5");
-        System.out.println("6");
+        System.out.println("bbbbbbb");
     }
 }

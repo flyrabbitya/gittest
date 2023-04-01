@@ -6,8 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-  int c =12;
-      System.out.println("hot-fix");
-  int a =12;
+  int b =12;
     }
 }

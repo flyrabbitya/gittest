@@ -6,7 +6,6 @@ package com.zk.study;
  */
 public class GitTest {
     public static void main(String[] args) {
-        int q = 12;
-
+        System.out.println("git1")
     }
 }

@@ -6,4 +6,7 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {阿斯顿发射点发生士大夫士大夫但是
+  public static void main(String[] args) {
+    aaaaaaaaaa232
+    }
 }

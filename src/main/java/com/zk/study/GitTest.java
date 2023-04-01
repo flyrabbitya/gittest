@@ -6,6 +6,7 @@ package com.zk.study;
  */
 public class GitTest {
     public static void main(String[] args) {
-   你好好护肤的的十分士大夫
+        int q = 12;
+
     }
 }

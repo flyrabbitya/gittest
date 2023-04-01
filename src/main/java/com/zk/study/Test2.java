@@ -6,12 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-    System.out.println("main-Test-3");
-    System.out.println("main-Test-1");
+    System.out.println("mian");
   }
-    public static void main(String[] args) {
-        for (int i = 0; i < 20; i++) {
-            System.out.println("i");
-        }
-    }
 }

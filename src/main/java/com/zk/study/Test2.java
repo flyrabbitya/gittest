@@ -6,6 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-  int a =12;
+  int z =12;
     }
 }

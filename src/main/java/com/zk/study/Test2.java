@@ -6,7 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-    int b=12;
-    System.out.println("b");
+    System.out.println("master");
   }
 }

@@ -6,6 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-  int ccc=12;
+  int a=12;
     }
 }

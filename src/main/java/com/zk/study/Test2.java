@@ -5,8 +5,7 @@ package com.zk.study;
  * @create 2023-03-31 23:24
  */
 public class Test2 {
-    public static void main(String[] args) {
-        int cc=12;
-        System.out.println("cc");
+  public static void main(String[] args) {
+  int ccc=12;
     }
 }

@@ -9,5 +9,7 @@ public class Test2 {
     int s =12;
       System.out.println("12");
     int zzzz =13;
+    int s =13;
+    int q=14;
     }
 }

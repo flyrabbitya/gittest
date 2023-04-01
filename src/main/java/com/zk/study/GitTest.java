@@ -6,7 +6,7 @@ package com.zk.study;
  */
 public class GitTest {
     public static void main(String[] args) {
-        forforforofrofrfrfr
+        int q = 12;
 
     }
 }

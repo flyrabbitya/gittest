@@ -6,6 +6,8 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
+    System.out.println("host1");
+    System.out.println("host2");
     System.out.println("master");
   }
 }

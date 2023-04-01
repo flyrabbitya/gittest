@@ -7,5 +7,8 @@ package com.zk.study;
 public class Test2 {
   public static void main(String[] args) {
   int z =12;
+    public static void main(String[] args) {
+        int C = 12;
+        System.out.println("c");
     }
 }

@@ -7,5 +7,6 @@ package com.zk.study;
 public class Test2 {
   public static void main(String[] args) {
   int cc=12;
+    System.out.println("cc");
     }
 }

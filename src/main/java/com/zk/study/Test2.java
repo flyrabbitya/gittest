@@ -6,6 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-   System.out.println("11111111111111111test100");
+  int a =12
     }
 }

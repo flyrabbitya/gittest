@@ -6,6 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-int b = ad;
+int b = 123;
     }
 }

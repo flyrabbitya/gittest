@@ -7,8 +7,6 @@ package com.zk.study;
 public class Test2 {
   public static void main(String[] args) {
 111111111111111111111111111111111
-  2
-          333333333
-                  333333333333
+222222222222222222222222222222222
   }
 }

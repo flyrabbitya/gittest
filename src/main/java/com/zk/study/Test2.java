@@ -5,6 +5,10 @@ package com.zk.study;
  * @create 2023-03-31 23:24
  */
 public class Test2 {
+  public static void main(String[] args) {
+    System.out.println("main-Test-3");
+    System.out.println("main-Test-1");
+  }
     public static void main(String[] args) {
         for (int i = 0; i < 20; i++) {
             System.out.println("i");

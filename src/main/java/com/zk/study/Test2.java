@@ -6,12 +6,6 @@ package com.zk.study;
  */
 public class Test2 {
   public static void main(String[] args) {
-    for (int i = 0; i < 30; i++) {
-      System.out.println("i");
-    }
-             erererrerererereererere
-2131332332
-123123
-           host
+    System.out.println("MASTER");
   }
 }
